@@ -1,0 +1,15 @@
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\bin\Debug\netcoreapp3.1\DepthMeasurementService.exe
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\bin\Debug\netcoreapp3.1\DepthMeasurementService.deps.json
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\bin\Debug\netcoreapp3.1\DepthMeasurementService.runtimeconfig.json
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\bin\Debug\netcoreapp3.1\DepthMeasurementService.runtimeconfig.dev.json
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\bin\Debug\netcoreapp3.1\DepthMeasurementService.dll
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\bin\Debug\netcoreapp3.1\DepthMeasurementService.pdb
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\obj\Debug\netcoreapp3.1\DepthMeasurementService.csproj.AssemblyReference.cache
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\obj\Debug\netcoreapp3.1\DepthMeasurementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\obj\Debug\netcoreapp3.1\DepthMeasurementService.AssemblyInfoInputs.cache
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\obj\Debug\netcoreapp3.1\DepthMeasurementService.AssemblyInfo.cs
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\obj\Debug\netcoreapp3.1\DepthMeasurementService.csproj.CoreCompileInputs.cache
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\obj\Debug\netcoreapp3.1\DepthMeasurementService.dll
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\obj\Debug\netcoreapp3.1\DepthMeasurementService.pdb
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\obj\Debug\netcoreapp3.1\DepthMeasurementService.genruntimeconfig.cache
+C:\Workspace\AdventOfCode\Day 1\DepthMeasurementService\DepthMeasurementService\bin\Debug\netcoreapp3.1\input.txt

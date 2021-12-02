@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthMeasurementService", "DepthMeasurementService\DepthMeasurementService.csproj", "{A306CA69-705F-4EB5-B50B-94E1CAD11F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A306CA69-705F-4EB5-B50B-94E1CAD11F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A306CA69-705F-4EB5-B50B-94E1CAD11F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A306CA69-705F-4EB5-B50B-94E1CAD11F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A306CA69-705F-4EB5-B50B-94E1CAD11F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FCD370-D415-4768-A5ED-007FB4E7A2EA}
+	EndGlobalSection
+EndGlobal
