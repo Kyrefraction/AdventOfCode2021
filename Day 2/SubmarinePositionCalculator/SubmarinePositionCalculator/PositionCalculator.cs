@@ -1,4 +1,4 @@
-﻿namespace SubmarinePositionCalculator
+namespace SubmarinePositionCalculator
 {
     public static class PositionCalculator
     {
@@ -6,6 +6,32 @@
         {
             var horizontalDisplacement = CalculateHorizontalDisplacement(commands);
             var verticalDisplacement = CalculateVerticalDisplacement(commands);
+            return horizontalDisplacement * verticalDisplacement;
+        }
+
+        public static int CalculateAimedDisplacementArea(List<Command> commands)
+        {
+            var aim = 0;
+            var horizontalDisplacement = 0;
+            var verticalDisplacement = 0;
+
+            foreach (var command in commands)
+            {
+                switch (command.Direction)
+                {
+                    case Direction.Up:
+                        aim -= command.Amount;
+                        break;
+                    case Direction.Down:
+                        aim += command.Amount;
+                        break;
+                    case Direction.Forward:
+                        horizontalDisplacement += command.Amount;
+                        verticalDisplacement += (command.Amount * aim);
+                        break;
+                }
+            }
+
             return horizontalDisplacement * verticalDisplacement;
         }
 
