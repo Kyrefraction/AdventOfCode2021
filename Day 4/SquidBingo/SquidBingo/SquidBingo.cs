@@ -3,7 +3,7 @@ using SquidBingo;
 var numbers = FileReader.ReadNumbers("Numbers.txt");
 var boards = FileReader.ReadBoards("Boards.txt");
 
-var winningScore = new List<int>();
+var winningScores = new List<int>();
 foreach (var number in numbers)
 {
     foreach (var board in boards.ToList())
@@ -14,16 +14,16 @@ foreach (var number in numbers)
             var nonMarkedOffNumbers = board.GetNonMarkedOffNumbers();
             var score = nonMarkedOffNumbers.Sum() * number;
             
-            winningScore.Add(score);
+            winningScores.Add(score);
             boards.Remove(board);
         }
     }
 }
 
-for (var i = 0; i < winningScore.Count; i++)
+for (var i = 0; i < winningScores.Count; i++)
 {
     if (i == 0)
-        Console.WriteLine($"First winner has won with score: {winningScore[i]}");
-    if (i == winningScore.Count - 1)
-        Console.WriteLine($"Last winner has 'won' with score: {winningScore[i]}");
+        Console.WriteLine($"First winner has won with score: {winningScores[i]}");
+    if (i == winningScores.Count - 1)
+        Console.WriteLine($"Last 'winner' has 'won' with score: {winningScores[i]}");
 }
