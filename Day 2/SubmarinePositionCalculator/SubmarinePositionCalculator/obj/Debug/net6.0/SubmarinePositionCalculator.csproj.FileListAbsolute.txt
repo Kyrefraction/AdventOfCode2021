@@ -1,0 +1,16 @@
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\bin\Debug\net6.0\input.txt
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\bin\Debug\net6.0\SubmarinePositionCalculator.exe
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\bin\Debug\net6.0\SubmarinePositionCalculator.deps.json
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\bin\Debug\net6.0\SubmarinePositionCalculator.runtimeconfig.json
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\bin\Debug\net6.0\SubmarinePositionCalculator.dll
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\bin\Debug\net6.0\ref\SubmarinePositionCalculator.dll
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\bin\Debug\net6.0\SubmarinePositionCalculator.pdb
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\SubmarinePositionCalculator.csproj.AssemblyReference.cache
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\SubmarinePositionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\SubmarinePositionCalculator.AssemblyInfoInputs.cache
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\SubmarinePositionCalculator.AssemblyInfo.cs
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\SubmarinePositionCalculator.csproj.CoreCompileInputs.cache
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\SubmarinePositionCalculator.dll
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\ref\SubmarinePositionCalculator.dll
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\SubmarinePositionCalculator.pdb
+C:\Workspace\AdventOfCode\Day 2\SubmarinePositionCalculator\SubmarinePositionCalculator\obj\Debug\net6.0\SubmarinePositionCalculator.genruntimeconfig.cache
