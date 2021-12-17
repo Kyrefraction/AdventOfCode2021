@@ -1,7 +1,41 @@
-﻿namespace SubmarineConsumptionCalculatorService
+namespace SubmarineConsumptionCalculatorService
 {
     public static class DiagnosticNumberCalculator
     {
+        public static string GetOxygenGeneratorRating(Dictionary<int, List<string>> values, List<string> rows)
+        {
+            for (var i = 0; i < values.Count; i++)
+            {
+                rows = GetFilteredListByMostCommonValue(values.ElementAt(i), rows);
+                values = BitPositionValueParser.GetColumnValues(rows);
+            }
+
+            return rows.First();
+        }
+
+        public static string GetCarbonDioxideScrubberRating(Dictionary<int, List<string>> values, List<string> rows)
+        {
+            for (var i = 0; i < values.Count; i++)
+            {
+                rows = GetFilteredListByLeastCommonValue(values.ElementAt(i), rows);
+                values = BitPositionValueParser.GetColumnValues(rows);
+            }
+
+            return rows.First();
+        }
+
+        public static List<string> GetFilteredListByLeastCommonValue(KeyValuePair<int, List<string>> value, List<string> rows)
+        {
+            var leastCommonValue = GetLeastCommonValue(value.Value);
+            return rows.Where(row => row[value.Key] == char.Parse(leastCommonValue)).ToList();
+        }
+
+        public static List<string> GetFilteredListByMostCommonValue(KeyValuePair<int, List<string>> value, List<string> rows)
+        {
+            var mostCommonValue = GetMostCommonValue(value.Value);
+            return rows.Where(row => row[value.Key] == char.Parse(mostCommonValue)).ToList();
+        }
+
         public static string GetGammaDiagnosticValue(Dictionary<int, List<string>> values)
         {
             var gamma = string.Empty;
@@ -32,7 +66,14 @@
 
         private static int GetMostCommonValue(List<int> values)
         {
-            return values.GroupBy(value => value).OrderByDescending(group => group.Count()).Select(group => group.Key).First();
+            if (values.Count == 1) return values.First();
+
+            var valuesOrderedByCount = values.GroupBy(value => value).OrderByDescending(group => group.Count());
+            if (valuesOrderedByCount.First().Count() == valuesOrderedByCount.Last().Count())
+                return 1;
+
+            var groupedValues = valuesOrderedByCount.Select(group => group.Key);
+            return groupedValues.First();
         }
 
         private static string GetLeastCommonValue(List<string> values)
@@ -43,7 +84,14 @@
 
         private static int GetLeastCommonValue(List<int> values)
         {
-            return values.GroupBy(value => value).OrderBy(group => group.Count()).Select(group => group.Key).First();
+            if (values.Count == 1) return values.First();
+
+            var valuesOrderedByCount = values.GroupBy(value => value).OrderBy(group => group.Count());
+            if (valuesOrderedByCount.First().Count() == valuesOrderedByCount.Last().Count())
+                return 0;
+
+            var groupedValues = valuesOrderedByCount.Select(group => group.Key);
+            return groupedValues.First();
         }
     }
 }
