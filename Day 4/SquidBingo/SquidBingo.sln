@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquidBingo", "SquidBingo\SquidBingo.csproj", "{3C173FB8-BD3D-4CE4-ADAA-075D5DFF6779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C173FB8-BD3D-4CE4-ADAA-075D5DFF6779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C173FB8-BD3D-4CE4-ADAA-075D5DFF6779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C173FB8-BD3D-4CE4-ADAA-075D5DFF6779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C173FB8-BD3D-4CE4-ADAA-075D5DFF6779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E62E05-633B-4BF7-8AC0-79074423B74F}
+	EndGlobalSection
+EndGlobal

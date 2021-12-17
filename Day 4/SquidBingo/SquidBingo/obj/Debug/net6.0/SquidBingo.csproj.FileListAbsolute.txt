@@ -1,0 +1,17 @@
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\bin\Debug\net6.0\SquidBingo.exe
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\bin\Debug\net6.0\SquidBingo.deps.json
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\bin\Debug\net6.0\SquidBingo.runtimeconfig.json
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\bin\Debug\net6.0\SquidBingo.dll
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\bin\Debug\net6.0\ref\SquidBingo.dll
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\bin\Debug\net6.0\SquidBingo.pdb
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\SquidBingo.csproj.AssemblyReference.cache
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\SquidBingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\SquidBingo.AssemblyInfoInputs.cache
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\SquidBingo.AssemblyInfo.cs
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\SquidBingo.csproj.CoreCompileInputs.cache
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\SquidBingo.dll
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\ref\SquidBingo.dll
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\SquidBingo.pdb
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\obj\Debug\net6.0\SquidBingo.genruntimeconfig.cache
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\bin\Debug\net6.0\Boards.txt
+C:\Workspace\AdventOfCode\Day 4\SquidBingo\SquidBingo\bin\Debug\net6.0\Numbers.txt
