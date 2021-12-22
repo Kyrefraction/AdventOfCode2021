@@ -1,0 +1,16 @@
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\bin\Debug\net6.0\input.txt
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\bin\Debug\net6.0\LanternfishPopulationCalculator.exe
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\bin\Debug\net6.0\LanternfishPopulationCalculator.deps.json
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\bin\Debug\net6.0\LanternfishPopulationCalculator.runtimeconfig.json
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\bin\Debug\net6.0\LanternfishPopulationCalculator.dll
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\bin\Debug\net6.0\ref\LanternfishPopulationCalculator.dll
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\bin\Debug\net6.0\LanternfishPopulationCalculator.pdb
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\LanternfishPopulationCalculator.csproj.AssemblyReference.cache
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\LanternfishPopulationCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\LanternfishPopulationCalculator.AssemblyInfoInputs.cache
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\LanternfishPopulationCalculator.AssemblyInfo.cs
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\LanternfishPopulationCalculator.csproj.CoreCompileInputs.cache
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\LanternfishPopulationCalculator.dll
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\ref\LanternfishPopulationCalculator.dll
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\LanternfishPopulationCalculator.pdb
+C:\Workspace\AdventOfCode\Day 6\LanternfishPopulationCalculator\LanternfishPopulationCalculator\obj\Debug\net6.0\LanternfishPopulationCalculator.genruntimeconfig.cache
