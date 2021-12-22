@@ -1,8 +1,8 @@
-﻿public static class PopulationCalculator
+public static class PopulationCalculator
 {
     public static long CalculatePopulation(List<int> lanternFishPopulation, int calculationTime)
     {
-        var lanternFishGroups = GetPopulationGroups(lanternFishPopulation);
+        var lanternFishGroups = GetInitialPopulationGroups(lanternFishPopulation);
 
         for (int day = 0; day < calculationTime; day++)
         {
@@ -35,7 +35,7 @@
         lanternFishGroups[LanternFishProperties.ReproductionInterval - 1] += numberOfNewSpawns;
     }
 
-    private static long[] GetPopulationGroups(List<int> lanternFishPopulation)
+    private static long[] GetInitialPopulationGroups(List<int> lanternFishPopulation)
     {
         long[] lanternFishGroups = new long[LanternFishProperties.MaxDaysUntilSpawn];
 
